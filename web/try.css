@@ -1,0 +1,426 @@
+#header{
+	
+	color:white;
+	border-radius:7px;
+	background:#47B1C7;
+}
+#logo{
+	position: absolute;
+	top: 25px;
+	left: 62px;
+	width:122px;
+	height:122px;
+	border-radius:60px;
+}
+#title{
+	position: absolute;
+	top: 25px;
+	left: 250px;
+	
+}
+
+#jdwnrh{
+	position: absolute;
+	top: 25px;
+	width:122px;
+	height:122px;
+	left: 1130px;
+	
+}
+body{
+	margin:20;
+	padding:20;
+	text-align:left;
+	font-size: 14px;
+	background:white;
+	background-size:cover;
+
+}
+
+
+
+#wrap{
+	width:100%;
+	height:50px;
+	margin:0;
+	z-index:99;
+	position:relative;
+	background-color:white;
+	}
+.navbar	{
+    height:50px;
+	padding:0;
+	margin: 0;
+	position: absolute; /* Ensures that the menu doesn’t affect other elements */
+	//border-right:0.2px solid black;
+	//border-left:0.2px solid black;
+	margin-left:23px;
+	//margin-left:23px;
+	}
+
+.navbar li 	{
+            height:auto;
+			width: 150px;  /* Each menu item is 150px wide */
+			float: left;  /* This lines up the menu items horizontally */
+			text-align:center;  /* All text is placed in the center of the box */
+			list-style-type: none;  /* Removes the default styling (bullets) for the list */
+			font:normal bold 15px/1.2em Arial, Verdana, Helvetica;  
+			margin: 0;
+			padding:0;
+			background-color:#366b82;
+	        
+                        }
+
+
+.navbar a	{							
+		padding: 15px 0; /* Adds a padding on the top and bottom so the text appears centered vertically */
+	  border-left:1px solid#1f5065;
+	  border-right:1px solid#1f5065;
+	   text-decoration: none;  /* Removes the default hyperlink styling. */
+		color:  white;
+		display: block;
+		}
+ .navbar li:hover, a:hover {background-color:#54879d;
+                     } 
+
+.navbar li ul 	{
+		display: none;  /* Hides the drop-down menu */
+		height: auto;									
+		margin: 0; /* Aligns drop-down box underneath the menu item */
+		padding: 0; /* Aligns drop-down box underneath the menu item */			
+		}				
+
+.navbar li:hover ul{
+                 display: block; /* Displays the drop-down box when the menu item is hovered over */
+                 }
+ 
+ .navbar li ul li {background-color: #54879d;}
+ 
+ .navbar li ul li a{border-left:1px solid #1f5065;
+               border-right:1px solid #1f5065;
+			   border-top:1px solid #74a3b7;
+			   border-bottom:1px solid #1f5065;}
+ 
+ 
+ 	
+.navbar li ul li a:hover	{background-color: #366b82;}
+
+
+#lsidemenu {
+		float:left;
+		width: 20%;
+		display:inline-block;
+		
+		
+		
+}
+
+#centerdiv{
+		width: 50%;
+		display:inline-block;
+		padding:30px;
+		background:white;
+		
+		
+}
+
+
+#rsidemenu {
+		float:right;
+		width: 20%;
+		display:inline-block;
+		
+		
+		
+}
+#social{
+		float:left;
+		width: 260px;
+		height:50%;
+		display:inline-block;
+}
+#Depression{
+	background-color:#881D6C;
+	width:250px;
+	height:45px;
+	color:white;
+	border-radius:20px;
+	opacity:1.8;
+	
+}
+
+#Depression:hover{
+	text-decoration:none;
+	 opacity:0.85;
+}
+#Psychoses{
+	background-color:#223C97;
+	width:250px;
+	height:45px;
+	color:white;
+	border-radius:20px;
+	opacity:1.8;
+	
+}
+
+#Psychoses:hover{
+	text-decoration:none;
+	 opacity:0.85;
+}
+#Epilipsy{
+	background-color:deepskyblue;
+	width:250px;
+	height:45px;
+	color:white;
+	border-radius:20px;
+	opacity:1.8;
+	
+}
+
+#Epilipsy:hover{
+	text-decoration:none;
+	 opacity:0.85;
+}
+#cmh{
+	background-color:#18B04B;
+	width:250px;
+	height:45px;
+	color:white;
+	border-radius:20px;
+	opacity:1.8;
+	
+}
+
+#cmh:hover{
+	text-decoration:none;
+	 opacity:0.85;
+}
+
+#Dementia{
+	background-color:#92C139;
+	width:250px;
+	height:45px;
+	color:white;
+	border-radius:20px;
+	opacity:1.8;
+	
+}
+
+#Dementia:hover{
+	text-decoration:none;
+	 opacity:0.85;
+}
+#Substance{
+	background-color:#F68B1F;
+	width:250px;
+	height:45px;
+	color:white;
+	border-radius:20px;
+	opacity:1.8;
+	
+}
+
+#Substance:hover{
+	text-decoration:none;
+	 opacity:0.85;
+}
+#Suicide{
+	background-color:#E65521;
+	width:250px;
+	height:45px;
+	color:white;
+	border-radius:20px;
+	opacity:1.8;
+	
+}
+
+#Suicide:hover{
+	text-decoration:none;
+	 opacity:0.85;
+}
+
+#link{
+	color:white;
+	text-decoration:none;
+}
+#link:hover{
+	color:deepskyblue;
+	text-decoration:none;
+	
+}
+
+#l{
+	color:white;
+	height:40px;
+}
+
+#footer{
+	background:#263238;
+	height:10%;
+	color:white;
+	border-radius:14px;
+	
+}
+
+
+	
+
+#signup{
+	    float:right;
+		width: 260px;
+		height:50%;
+		display:inline-block;
+}
+#form{
+		
+	background-color:#000066;
+	padding:10px; 
+	color:white;
+	width:250px;
+	height:250px;
+}
+#sign{
+	color:#000066;
+	background-color:yellow;
+}
+#h2{
+	float:center;
+	
+}
+#emergency{
+	color:black;
+	text-decoration:none;
+	font-size:16px;
+	
+}
+#emergency:hover{
+
+	color:red;
+	text-decoration:none;
+	background:none;
+	
+}
+
+#complaint{
+	border-radius:35px;
+	opacity:1.8;
+}
+#complaint:hover{
+	text-decoration:none;
+	 opacity:0.85;
+	 background:none;
+}
+
+
+#dos{
+	position: absolute;
+	top: 650px;
+	left: 650px;
+	width:300px;
+	height:320px;
+	background:#66ff33;
+	float:right;
+	display:inline-block;
+	border-radius:60px;
+	
+	}
+	#do{
+		float:left;
+		display:inline-block;
+		
+	}
+#donts{
+	position: absolute;
+	top: 1000px;
+	left: 350px;
+	width:300px;
+	height:250px;
+	background:#ff3300;
+	display:inline-block;
+	border-radius:60px;
+	
+	}
+	#dontss{
+	position: absolute;
+	top: 1000px;
+	left: 700px;
+	width:200px;
+	height:300px;
+	display:inline-block;
+	border-radius:60px;
+	
+	}
+
+	#h1{
+		color: #e65c00;
+	}
+	#clinical{ 
+	  color:black;
+	  		text-decoration:none;
+		}
+    #clinical:hover{
+		text-decoration:none;
+		color:deepskyblue;
+			}
+			
+	#h2{
+		font-weight:bold;
+		}	
+#tip{
+	border-style:solid;
+	border-color: #d1e0e0;
+	width:350;
+	height:100;
+}		
+#t1{
+	position: absolute;
+	top: 630px;
+	left: 320px;
+	
+	
+}
+#conduct{
+	border-style:solid;
+	border-color:#000066;
+	width:620;
+	height:550;
+	
+}
+#box{
+	position:relative;
+	top: 10px;
+	left:178px;
+	border-style:solid;
+	border-color: #000066;
+	width:230;
+	height:90;
+	
+}
+h5{
+	color:red;
+}
+#cli{
+	border-style:solid;
+	border-color: #d1e0e0;
+	width:350;
+	height:100;
+	position: relative;
+	top:-65px;
+	left:60;
+}
+#clin{
+border-style:solid;
+	border-color: #d1e0e0;
+	width:350;
+	height:180;
+	position: relative;
+	top:-65px;
+	left:60;
+}
+#manage{
+	border-style:solid;
+	border-color:#000066;
+	width:620;
+	height:600;
+
+}

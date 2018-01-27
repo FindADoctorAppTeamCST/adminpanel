@@ -1,0 +1,501 @@
+body{
+	margin:10px;
+	padding:30px;
+	text-align:left;
+	font-size: 14px;
+	background:white;
+	background-size:cover;
+
+}
+
+#logo{
+	position:relative;
+	top: 20%;
+	left: 2%;
+	width:9%;
+	height:9%;
+	border-radius:60px;
+}
+#title{
+	position: relative;
+	top:20%;
+	left:8%;
+	width:63%;
+	height:9%;
+}
+
+#jdwnrh{
+	position: relative;
+	top: 20%;
+	width:9%;
+	height:9%;
+	left: 15%;
+	
+}
+
+#lsidemenu {
+		float:left;
+		width: 25%;
+		display:inline-block;
+}
+#llsidemenu {
+		float:left;
+		width: 25%;
+		height:100%;
+		display:inline-block;
+		
+}
+
+#centerdiv{
+		width: 75%;
+		display:inline-block;
+		padding:30px;
+		background:white;
+	}
+
+
+
+#rsidemenu {
+		float:right;
+		width: 20%;
+		display:inline-block;
+		
+		
+		
+}
+#social{
+		float:left;
+		width: 30%;
+		height:50%;
+		display:inline-block;
+}
+#Depression{
+	background-color:#881D6C;
+	width:90%;
+	height:10%;
+	color:white;
+	border-radius:20px;
+	opacity:1.8;
+	
+}
+
+#Depression:hover{
+	text-decoration:none;
+	 opacity:0.85;
+}
+#Psychoses{
+	background-color:#223C97;
+	width:90%;
+	height:10%;
+	color:white;
+	border-radius:20px;
+	opacity:1.8;
+	
+}
+
+#Psychoses:hover{
+	text-decoration:none;
+	 opacity:0.85;
+}
+#Epilipsy{
+	background-color:deepskyblue;
+	width:90%;
+	height:10%;
+	color:white;
+	border-radius:20px;
+	opacity:1.8;
+	
+}
+
+#Epilipsy:hover{
+	text-decoration:none;
+	 opacity:0.85;
+}
+#cmh{
+	background-color:#18B04B;
+width:90%;
+	height:10%;
+	color:white;
+	border-radius:20px;
+	opacity:1.8;
+	
+}
+
+#cmh:hover{
+	text-decoration:none;
+	 opacity:0.85;
+}
+
+#Dementia{
+	background-color:#92C139;
+width:90%;
+	height:10%;
+	color:white;
+	border-radius:20px;
+	opacity:1.8;
+	
+}
+
+#Dementia:hover{
+	text-decoration:none;
+	 opacity:0.85;
+}
+#Substance{
+	background-color:#F68B1F;
+width:90%;
+	height:10%;
+	color:white;
+	border-radius:20px;
+	opacity:1.8;
+	
+}
+
+#Substance:hover{
+	text-decoration:none;
+	 opacity:0.85;
+}
+#Suicide{
+	background-color:#E65521;
+width:90%;
+	height:10%;
+	color:white;
+	border-radius:20px;
+	opacity:1.8;
+	
+}
+
+#Suicide:hover{
+	text-decoration:none;
+	 opacity:0.85;
+}
+
+#link{
+	color:white;
+	text-decoration:none;
+}
+#link:hover{
+	color:deepskyblue;
+	text-decoration:none;
+	
+}
+
+#l{
+	color:white;
+	height:40px;
+}
+
+#footer{
+	background:#263238;
+	height:10%;
+	color:white;
+	border-radius:14px;
+	
+}
+
+
+	
+
+#signup{
+	    float:right;
+		width: 260px;
+		height:50%;
+		display:inline-block;
+}
+#form{
+		
+	background-color:#000066;
+	padding:10px; 
+	color:white;
+	width:250px;
+	height:250px;
+}
+#sign{
+	color:#000066;
+	background-color:yellow;
+}
+#h2{
+	float:center;
+	
+}
+#emergency{
+	color:black;
+	text-decoration:none;
+	font-size:16px;
+	
+}
+#emergency:hover{
+
+	color:red;
+	text-decoration:none;
+	background:none;
+	
+}
+
+#complaint{
+	border-radius:35px;
+	opacity:1.8;
+}
+#complaint:hover{
+	text-decoration:none;
+	 opacity:0.85;
+	 background:none;
+}
+#h1{
+		color:black;
+	}
+	
+#dos{
+	
+	width:40%;
+	height:60%;
+	//background:#66ff33;
+	float:left;
+	display:inline-block;
+	border-radius:20px;
+	border-color:#66ff33;
+	border-style:solid;
+	
+}
+
+#donts{
+	width:40%;
+	height:60%;
+	//background:#ff3300;
+	display:inline-block;
+	border-radius:20px;
+	border-color:#ff3300;
+	border-style:solid;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	#clinical{ 
+	  color:black;
+	  		text-decoration:none;
+		}
+    #clinical:hover{
+		text-decoration:none;
+		color:deepskyblue;
+			}
+			
+	#h2{
+		font-weight:bold;
+		}	
+#tip{
+	border-style:solid;
+	border-color: #d1e0e0;
+	width:60%;
+	height:50%;
+	position: relative;
+	left:10%;
+	
+	
+}		
+#t1{
+	position: absolute;
+	left:30%;
+
+	
+	
+}
+#conduct{
+	border-style:solid;
+	border-color:#000066;
+	width:620;
+	height:550;
+	
+}
+#box{
+	position:relative;
+	left:26%;
+	border-style:solid;
+	border-color: #000066;
+	width:50%;
+	
+}
+h5{
+	color:red;
+}
+#cli{
+	border-style:solid;
+	border-color: #d1e0e0;
+	width:50%;
+	height:50%;
+	position: relative;
+	top:-65px;
+	left:12%;
+}
+#clin{
+border-style:solid;
+	border-color: #d1e0e0;
+	width:70%;
+	height:70%;
+	position: relative;
+	top:-65px;
+	left:10%;
+}
+
+#manage{
+	border-style:solid;
+	border-color:#000066;
+	width:620;
+	height:600;
+
+}
+
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.75); /* Black w/ opacity */
+    -webkit-animation-name: fadeIn; /* Fade in the background */
+    -webkit-animation-duration: 0.4s;
+    animation-name: fadeIn;
+    animation-duration: 0.4s
+}
+
+/* Modal Content */
+.modal-content {
+    position: fixed;
+    bottom:0;
+	left: 300px;
+    background-color:#f0f5f5;
+    width: 50%;
+    -webkit-animation-name: slideIn;
+    -webkit-animation-duration: 0.4s;
+    animation-name: slideIn;
+    animation-duration: 0.4s
+}
+
+/* The Close Button */
+.close {
+    color: white;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.modal-header {
+    padding: 2px 16px;
+    background-color: #5cb85c;
+    color: white;
+}
+
+.modal-body {padding: 2px 16px;}
+
+.modal-footer {
+    padding: 2px 16px;
+    background-color: #5cb85c;
+    color: white;
+}
+
+/* Add Animation */
+@-webkit-keyframes slideIn {
+    from {bottom: -300px; opacity: 0} 
+    to {bottom: 0; opacity: 1}
+}
+
+@keyframes slideIn {
+    from {bottom: -300px; opacity: 0}
+    to {bottom: 0; opacity: 1}
+}
+
+@-webkit-keyframes fadeIn {
+    from {opacity: 0} 
+    to {opacity: 1}
+}
+
+@keyframes fadeIn {
+    from {opacity: 0} 
+    to {opacity: 1}
+}
+
+#assesment{
+	display:inline-block;
+	background-color:#00cccc;
+	width:20%;
+	height:40px;
+	color:white;
+	border-radius:20px;
+	opacity:0.6;
+	font-size:30px;
+	
+	
+	
+}
+#assesment:hover{
+	text-decoration:none;
+	 opacity:1.5;
+
+}
+
+#management
+{
+	display:inline-block;
+	background-color:#00cccc;
+	width:20%;
+	height:40px;
+	color:white;
+	border-radius:20px;
+	opacity:0.6;	
+	font-size:30px;
+	
+}
+#management:hover{
+	text-decoration:none;
+	
+	 	opacity:1.5;
+}
+
+#followup{
+	display:inline-block;
+	background-color:#00cccc;
+	width:20%;
+	height:40px;
+	color:white;
+	border-radius:20px;
+	opacity:0.6;
+	font-size:30px;
+	
+	
+	}
+	
+	#followup:hover{
+	text-decoration:none;
+	 opacity:1.5;
+}
+	#menu{
+		position:relative;
+		left:15%;
+		
+	}
+
+	#admin{
+	background-color:#00cccc;
+	position:relative;
+	left:30px;
+}
+	
+	
